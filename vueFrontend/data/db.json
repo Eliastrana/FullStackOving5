@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "id": "ffc4",
+      "name": "Erik",
+      "email": "erik@goof.com",
+      "message": "for en fin nettside:)\n"
+    },
+    {
+      "id": "1452",
+      "name": "elias",
+      "email": "elias@goof.com",
+      "message": "jeg er dårlig i nobuild"
+    },
+    {
+      "id": "30fa",
+      "name": "Sander",
+      "email": "sander@mail.com",
+      "message": "Denne var ikke særlig bra."
+    },
+    {
+      "id": "c0ee",
+      "name": "Frid",
+      "email": "frid@mail.com",
+      "message": "Hei jeg liker kalkulatoren. "
+    },
+    {
+      "id": "cc2a",
+      "name": "Elias Tvenning Trana",
+      "email": "eliastrana@gmail.com",
+      "message": "God natt!",
+      "formSubmitted": false
+    },
+    {
+      "id": "35b3",
+      "name": "Trygve",
+      "email": "trygve@mail.no",
+      "message": "Fin sticky icky menu bar",
+      "formSubmitted": false
+    },
+    {
+      "id": "b73e",
+      "name": "Monkey",
+      "email": "monkey@monkeymail.com",
+      "message": "This photo is great man\n"
+    },
+    {
+      "id": "e4e0",
+      "name": "Elias Trana",
+      "email": "eliastrana@gmail.com",
+      "message": "Tester i dag også\n"
+    },
+    {
+      "id": "84e5",
+      "name": "Elias Trana",
+      "email": "eliastrana@gmail.com",
+      "message": "asdfasdfasdf\n@"
+    },
+    {
+      "id": "2cd6",
+      "name": "Elias Trana",
+      "email": "eliastrana@gmail.com",
+      "message": "asdfasdfasdf"
+    },
+    {
+      "id": "ac74",
+      "name": "Elias ikke trana",
+      "email": "eliastrana@gmail.com",
+      "message": "supertest\n"
+    }
+  ]
+}
